@@ -1,0 +1,7 @@
+---@class RandomColorscheme.Config
+---@field colorschemes string[]
+---@field set_on_load boolean
+--
+---@class RandomColorscheme.UserConfig
+---@field colorschemes? string[]
+---@field set_on_load? boolean
